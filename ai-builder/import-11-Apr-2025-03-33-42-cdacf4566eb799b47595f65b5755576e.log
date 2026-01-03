@@ -1,0 +1,72 @@
+
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"\/var\/www\/wptbox\/wp-content\/uploads\/2025\/04\/wxr.xml"
+23
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"\/var\/www\/wptbox\/wp-content\/uploads\/2025\/04\/wxr.xml"
+676
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"\/var\/www\/wptbox\/wp-content\/uploads\/2025\/04\/wxr.xml"
+746
+There was an error on website: Uncaught Error
+Error: Call to a member function get_gallery_image_ids() on false in /var/www/wptbox/wp-content/plugins/elementor/modules/ai/module.php:348
+Stack trace:
+#0 /var/www/wptbox/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax()
+#1 /var/www/wptbox/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/wptbox/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wptbox/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+There was an error on website: Uncaught Error
+Error: Call to a member function get_gallery_image_ids() on false in /var/www/wptbox/wp-content/plugins/elementor/modules/ai/module.php:333
+Stack trace:
+#0 /var/www/wptbox/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax()
+#1 /var/www/wptbox/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/wptbox/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wptbox/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+There was an error on website: Uncaught Error
+Error: Call to a member function get_gallery_image_ids() on false in /var/www/wptbox/wp-content/plugins/elementor/modules/ai/module.php:348
+Stack trace:
+#0 /var/www/wptbox/wp-includes/class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax()
+#1 /var/www/wptbox/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 /var/www/wptbox/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/wptbox/wp-admin/admin-ajax.php(192): do_action()
+#4 {main}
+There was an error on website: Uncaught Error
+ParseError: Unmatched '}' in /var/www/wptbox/wp-content/themes/astra/functions.php:227
+Stack trace:
+#0 /var/www/wptbox/wp-config.php(115): require_once()
+#1 /var/www/wptbox/wp-load.php(50): require_once('...')
+#2 /var/www/wptbox/wp-admin/admin.php(34): require_once('...')
+#3 /var/www/wptbox/wp-admin/theme-editor.php(10): require_once('...')
+#4 {main}
+There was an error on website: Uncaught Error
+ParseError: Unmatched '}' in /var/www/wptbox/wp-content/themes/astra/footer.php:56
+Stack trace:
+#0 /var/www/wptbox/wp-includes/template.php(745): load_template()
+#1 /var/www/wptbox/wp-includes/general-template.php(92): locate_template()
+#2 /var/www/wptbox/wp-content/themes/astra/page.php(44): get_footer()
+#3 /var/www/wptbox/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/wptbox/wp-blog-header.php(19): require_once('...')
+#5 /var/www/wptbox/index.php(17): require('...')
+#6 {main}
+There was an error on website: Uncaught Error
+ParseError: Unmatched '}' in /var/www/wptbox/wp-content/themes/astra/footer.php:56
+Stack trace:
+#0 /var/www/wptbox/wp-includes/template.php(745): load_template()
+#1 /var/www/wptbox/wp-includes/general-template.php(92): locate_template()
+#2 /var/www/wptbox/wp-content/themes/astra/page.php(44): get_footer()
+#3 /var/www/wptbox/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/wptbox/wp-blog-header.php(19): require_once('...')
+#5 /var/www/wptbox/index.php(17): require('...')
+#6 {main}
+There was an error on website: Uncaught Error
+ParseError: Unmatched '}' in /var/www/wptbox/wp-content/themes/astra/footer.php:56
+Stack trace:
+#0 /var/www/wptbox/wp-includes/template.php(745): load_template()
+#1 /var/www/wptbox/wp-includes/general-template.php(92): locate_template()
+#2 /var/www/wptbox/wp-content/themes/astra/page.php(44): get_footer()
+#3 /var/www/wptbox/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/wptbox/wp-blog-header.php(19): require_once('...')
+#5 /var/www/wptbox/index.php(17): require('...')
+#6 {main}

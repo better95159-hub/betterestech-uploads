@@ -1,0 +1,68 @@
+2025-11-07T09:51:38+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 2244
+2025-11-07T09:51:40+00:00 INFO getRazorpayPaymentParams 2244
+2025-11-07T09:51:40+00:00 INFO createOrGetRazorpayOrderId 2244 and is1ccCheckout is set to no
+2025-11-07T09:51:40+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 2244 and is_magic_checkout_order is set to no
+2025-11-07T09:51:40+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id2244
+2025-11-07T09:51:40+00:00 INFO Called createRazorpayOrderId with params orderId 2244 and sessionKey razorpay_order_id2244
+2025-11-07T09:51:40+00:00 INFO Called getOrderCreationData with params orderId 2244
+2025-11-07T09:51:40+00:00 INFO Called getOrderCreationData with params orderId 2244 and is1ccOrder is set to no
+2025-11-07T09:51:40+00:00 INFO For order 2244
+2025-11-07T09:51:40+00:00 INFO {"receipt":"2244","amount":6300,"currency":"USD","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"2244","woocommerce_order_number":"2244"}}
+2025-11-07T09:51:45+00:00 INFO Updating razorpay webhook
+2025-11-07T09:51:46+00:00 INFO Meta data saved for Order ID 2244 with key razorpay_order_id2244 and value order_Rco6LnSW2rZZou.
+2025-11-07T09:51:46+00:00 INFO For order session key razorpay_order_id2244
+2025-11-07T10:03:08+00:00 INFO Called process_payment with params order_id 2245
+2025-11-07T10:03:08+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 2245
+2025-11-07T10:03:11+00:00 INFO getRazorpayPaymentParams 2245
+2025-11-07T10:03:11+00:00 INFO createOrGetRazorpayOrderId 2245 and is1ccCheckout is set to no
+2025-11-07T10:03:11+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 2245 and is_magic_checkout_order is set to no
+2025-11-07T10:03:11+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id2245
+2025-11-07T10:03:11+00:00 INFO Called createRazorpayOrderId with params orderId 2245 and sessionKey razorpay_order_id2245
+2025-11-07T10:03:11+00:00 INFO Called getOrderCreationData with params orderId 2245
+2025-11-07T10:03:11+00:00 INFO Called getOrderCreationData with params orderId 2245 and is1ccOrder is set to no
+2025-11-07T10:03:11+00:00 INFO For order 2245
+2025-11-07T10:03:11+00:00 INFO {"receipt":"2245","amount":5900,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"2245","woocommerce_order_number":"2245"}}
+2025-11-07T10:03:11+00:00 INFO Meta data saved for Order ID 2245 with key razorpay_order_id2245 and value order_RcoIUEQe76s9Vz.
+2025-11-07T10:03:11+00:00 INFO For order session key razorpay_order_id2245
+2025-11-07T10:57:17+00:00 INFO Called process_payment with params order_id 2246
+2025-11-07T10:57:17+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 2246
+2025-11-07T10:57:19+00:00 INFO getRazorpayPaymentParams 2246
+2025-11-07T10:57:19+00:00 INFO createOrGetRazorpayOrderId 2246 and is1ccCheckout is set to no
+2025-11-07T10:57:19+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 2246 and is_magic_checkout_order is set to no
+2025-11-07T10:57:19+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id2246
+2025-11-07T10:57:19+00:00 INFO Called createRazorpayOrderId with params orderId 2246 and sessionKey razorpay_order_id2246
+2025-11-07T10:57:19+00:00 INFO Called getOrderCreationData with params orderId 2246
+2025-11-07T10:57:19+00:00 INFO Called getOrderCreationData with params orderId 2246 and is1ccOrder is set to no
+2025-11-07T10:57:19+00:00 INFO For order 2246
+2025-11-07T10:57:19+00:00 INFO {"receipt":"2246","amount":124200,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"2246","woocommerce_order_number":"2246"}}
+2025-11-07T10:57:21+00:00 INFO Meta data saved for Order ID 2246 with key razorpay_order_id2246 and value order_RcpDhLlEyNmcWr.
+2025-11-07T10:57:21+00:00 INFO For order session key razorpay_order_id2246
+2025-11-07T10:57:35+00:00 INFO Called check_razorpay_response: wc_order_Ret39TP4empKH
+2025-11-07T10:57:35+00:00 INFO HPOS is enabled and order status: pending
+2025-11-07T10:57:35+00:00 INFO Get order id in check_razorpay_response: orderId 2246
+2025-11-07T10:57:35+00:00 INFO handleErrorCase
+2025-11-07T10:57:35+00:00 INFO getErrorMessage orderId: 2246
+2025-11-07T10:57:35+00:00 INFO returning An error occured. Please contact administrator for assistance
+2025-11-07T10:57:35+00:00 INFO updateOrder orderId: 2246 , razorpayPaymentId:  , success: 
+2025-11-07T10:57:37+00:00 INFO Woocommerce orderId: 2246 processed through callback
+2025-11-07T10:57:38+00:00 INFO Called check_razorpay_response: wc_order_Ret39TP4empKH
+2025-11-07T10:57:38+00:00 INFO HPOS is enabled and order status: failed
+2025-11-07T10:57:38+00:00 INFO Get order id in check_razorpay_response: orderId 2246
+2025-11-07T10:57:38+00:00 INFO handleErrorCase
+2025-11-07T10:57:38+00:00 INFO getErrorMessage orderId: 2246
+2025-11-07T10:57:38+00:00 INFO returning An error occured. Please contact administrator for assistance
+2025-11-07T10:57:38+00:00 INFO updateOrder orderId: 2246 , razorpayPaymentId:  , success: 
+2025-11-07T10:57:38+00:00 INFO Woocommerce orderId: 2246 processed through callback
+2025-11-07T12:35:08+00:00 INFO Called process_payment with params order_id 2247
+2025-11-07T12:35:08+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 2247
+2025-11-07T12:35:12+00:00 INFO getRazorpayPaymentParams 2247
+2025-11-07T12:35:12+00:00 INFO createOrGetRazorpayOrderId 2247 and is1ccCheckout is set to no
+2025-11-07T12:35:12+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 2247 and is_magic_checkout_order is set to no
+2025-11-07T12:35:12+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id2247
+2025-11-07T12:35:12+00:00 INFO Called createRazorpayOrderId with params orderId 2247 and sessionKey razorpay_order_id2247
+2025-11-07T12:35:12+00:00 INFO Called getOrderCreationData with params orderId 2247
+2025-11-07T12:35:12+00:00 INFO Called getOrderCreationData with params orderId 2247 and is1ccOrder is set to no
+2025-11-07T12:35:12+00:00 INFO For order 2247
+2025-11-07T12:35:12+00:00 INFO {"receipt":"2247","amount":10700,"currency":"EUR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"2247","woocommerce_order_number":"2247"}}
+2025-11-07T12:35:13+00:00 INFO Meta data saved for Order ID 2247 with key razorpay_order_id2247 and value order_Rcqt5MaCCcXQRd.
+2025-11-07T12:35:13+00:00 INFO For order session key razorpay_order_id2247

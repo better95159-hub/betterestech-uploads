@@ -1,0 +1,10 @@
+2025-11-22T05:01:54+00:00 syntax error, unexpected token "<"
+2025-11-22T06:41:46+00:00 file_get_contents(https://...@main/cache22/account.html.gz): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+
+2025-11-22T06:55:09+00:00 Undefined constant "BETTERESTECH_DEBUG_LOG"
+2025-11-22T07:09:19+00:00 file_get_contents(https://...@main/cache25/home.html.gz): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+
+2025-11-22T10:50:04+00:00 file_get_contents(https://...@main/cache25/home.html.gz): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+
+2025-11-22T12:52:07+00:00 file_get_contents(https://...@main/cache28/home.html.gz): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+

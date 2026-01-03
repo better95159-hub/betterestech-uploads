@@ -1,0 +1,58 @@
+2025-10-11T08:15:58+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2025-10-11T08:15:58+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2025-10-11T08:15:58+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2025-10-11T08:15:58+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2025-10-11T08:15:58+00:00 INFO create one_cc_plugin_sync_cron successful
+2025-10-11T08:32:25+00:00 INFO Trying to create one_cc_address_sync_cron
+2025-10-11T08:32:25+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2025-10-11T08:32:25+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2025-10-11T08:32:25+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2025-10-11T08:32:25+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2025-10-11T08:32:25+00:00 INFO create one_cc_plugin_sync_cron successful
+2025-10-11T14:27:09+00:00 INFO Creating razorpay webhook
+2025-10-11T14:27:10+00:00 INFO Trying to create one_cc_address_sync_cron
+2025-10-11T14:27:10+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2025-10-11T14:27:10+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2025-10-11T14:27:10+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2025-10-11T14:27:10+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2025-10-11T14:27:10+00:00 INFO create one_cc_plugin_sync_cron successful
+2025-10-11T14:28:09+00:00 INFO Called process_payment with params order_id 1956
+2025-10-11T14:28:09+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 1956
+2025-10-11T14:28:12+00:00 INFO getRazorpayPaymentParams 1956
+2025-10-11T14:28:12+00:00 INFO createOrGetRazorpayOrderId 1956 and is1ccCheckout is set to no
+2025-10-11T14:28:12+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 1956 and is_magic_checkout_order is set to no
+2025-10-11T14:28:12+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id1956
+2025-10-11T14:28:12+00:00 INFO Called createRazorpayOrderId with params orderId 1956 and sessionKey razorpay_order_id1956
+2025-10-11T14:28:12+00:00 INFO Called getOrderCreationData with params orderId 1956
+2025-10-11T14:28:12+00:00 INFO Called getOrderCreationData with params orderId 1956 and is1ccOrder is set to no
+2025-10-11T14:28:12+00:00 INFO For order 1956
+2025-10-11T14:28:12+00:00 INFO {"receipt":"1956","amount":124200,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"1956","woocommerce_order_number":"1956"}}
+2025-10-11T14:28:13+00:00 INFO Meta data saved for Order ID 1956 with key razorpay_order_id1956 and value order_RSCOCYlrKQxo3N.
+2025-10-11T14:28:13+00:00 INFO For order session key razorpay_order_id1956
+2025-10-11T14:28:47+00:00 INFO getRazorpayPaymentParams 1956
+2025-10-11T14:28:47+00:00 INFO createOrGetRazorpayOrderId 1956 and is1ccCheckout is set to no
+2025-10-11T14:28:47+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 1956 and is_magic_checkout_order is set to no
+2025-10-11T14:28:47+00:00 INFO razorpayOrderId order_RSCOCYlrKQxo3N | sessionKey razorpay_order_id1956
+2025-10-11T14:28:47+00:00 INFO Called verifyOrderAmount with params orderId 1956 and rzporderId order_RSCOCYlrKQxo3N
+2025-10-11T14:28:48+00:00 INFO Called getOrderCreationData with params orderId 1956
+2025-10-11T14:28:48+00:00 INFO Called getOrderCreationData with params orderId 1956 and is1ccOrder is set to no
+2025-10-11T14:31:41+00:00 INFO Called process_payment with params order_id 1957
+2025-10-11T14:31:41+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 1957
+2025-10-11T14:31:43+00:00 INFO getRazorpayPaymentParams 1957
+2025-10-11T14:31:43+00:00 INFO createOrGetRazorpayOrderId 1957 and is1ccCheckout is set to no
+2025-10-11T14:31:43+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 1957 and is_magic_checkout_order is set to no
+2025-10-11T14:31:43+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id1957
+2025-10-11T14:31:43+00:00 INFO Called createRazorpayOrderId with params orderId 1957 and sessionKey razorpay_order_id1957
+2025-10-11T14:31:43+00:00 INFO Called getOrderCreationData with params orderId 1957
+2025-10-11T14:31:43+00:00 INFO Called getOrderCreationData with params orderId 1957 and is1ccOrder is set to no
+2025-10-11T14:31:43+00:00 INFO For order 1957
+2025-10-11T14:31:43+00:00 INFO {"receipt":"1957","amount":532500,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_id":"1957","woocommerce_order_number":"1957"}}
+2025-10-11T14:31:44+00:00 INFO Meta data saved for Order ID 1957 with key razorpay_order_id1957 and value order_RSCRu0vBbnvO32.
+2025-10-11T14:31:44+00:00 INFO For order session key razorpay_order_id1957
+2025-10-11T14:32:25+00:00 INFO Updating razorpay webhook
+2025-10-11T14:32:26+00:00 INFO Trying to create one_cc_address_sync_cron
+2025-10-11T14:32:26+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2025-10-11T14:32:26+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2025-10-11T14:32:26+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2025-10-11T14:32:26+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2025-10-11T14:32:26+00:00 INFO create one_cc_plugin_sync_cron successful

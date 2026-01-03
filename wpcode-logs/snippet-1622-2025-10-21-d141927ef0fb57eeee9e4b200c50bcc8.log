@@ -1,0 +1,4 @@
+2025-10-21T06:43:30+00:00 Cannot redeclare is_safe_to_use_wc_session() (previously declared in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/themes/astra-child/functions.php:60)
+2025-10-21T08:56:44+00:00 syntax error, unexpected identifier "f79", expecting "]"
+2025-10-21T08:58:50+00:00 syntax error, unexpected identifier "f79", expecting "]"
+2025-10-21T09:00:18+00:00 syntax error, unexpected identifier "f79", expecting "]"

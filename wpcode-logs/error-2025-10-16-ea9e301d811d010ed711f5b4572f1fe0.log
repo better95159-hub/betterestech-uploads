@@ -1,0 +1,70 @@
+2025-10-16T16:12:38+00:00 Undefined variable $rate
+2025-10-16T16:12:44+00:00 Undefined variable $rate
+2025-10-16T16:12:45+00:00 Undefined variable $rate
+2025-10-16T16:12:46+00:00 Undefined variable $rate
+2025-10-16T16:12:46+00:00 Undefined variable $rate
+2025-10-16T16:12:46+00:00 Undefined variable $rate
+2025-10-16T16:26:41+00:00 Snippet "CURRENCY CONVERTER" (#1622) was automatically deactivated due to a fatal error.
+2025-10-16T16:26:41+00:00 Cannot redeclare safe_convert_price() (previously declared in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:4)
+2025-10-16T16:27:05+00:00 Unmatched '}'
+2025-10-16T17:51:00+00:00 Uncaught Error: Call to a member function get() on null in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:44
+Stack trace:
+#0 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(324): safe_currency_conversion('')
+#1 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-settings.php(727): do_action('init')
+#4 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-config.php(66): require_once('/home/vol1_3/ez...')
+#5 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-load.php(50): require_once('/home/vol1_3/ez...')
+#6 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-blog-header.php(13): require_once('/home/vol1_3/ez...')
+#7 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/index.php(17): require('/home/vol1_3/ez...')
+#8 {main}
+  thrown
+2025-10-16T18:07:02+00:00 Uncaught Error: Call to a member function get() on null in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:44
+Stack trace:
+#0 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(324): safe_currency_conversion('')
+#1 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-settings.php(727): do_action('init')
+#4 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-config.php(66): require_once('/home/vol1_3/ez...')
+#5 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-load.php(50): require_once('/home/vol1_3/ez...')
+#6 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-blog-header.php(13): require_once('/home/vol1_3/ez...')
+#7 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/index.php(17): require('/home/vol1_3/ez...')
+#8 {main}
+  thrown
+2025-10-16T18:07:02+00:00 Uncaught Error: Call to a member function get() on null in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:44
+Stack trace:
+#0 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(324): safe_currency_conversion('')
+#1 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-settings.php(727): do_action('init')
+#4 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-config.php(66): require_once('/home/vol1_3/ez...')
+#5 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-load.php(50): require_once('/home/vol1_3/ez...')
+#6 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-blog-header.php(13): require_once('/home/vol1_3/ez...')
+#7 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/index.php(17): require('/home/vol1_3/ez...')
+#8 {main}
+  thrown
+2025-10-16T18:07:03+00:00 Uncaught Error: Call to a member function get() on null in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:44
+Stack trace:
+#0 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(324): safe_currency_conversion('')
+#1 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-settings.php(727): do_action('init')
+#4 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-config.php(66): require_once('/home/vol1_3/ez...')
+#5 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-load.php(50): require_once('/home/vol1_3/ez...')
+#6 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-blog-header.php(13): require_once('/home/vol1_3/ez...')
+#7 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/index.php(17): require('/home/vol1_3/ez...')
+#8 {main}
+  thrown
+2025-10-16T18:07:03+00:00 Uncaught Error: Call to a member function get() on null in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(419) : eval()'d code:44
+Stack trace:
+#0 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(324): safe_currency_conversion('')
+#1 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-settings.php(727): do_action('init')
+#4 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-config.php(66): require_once('/home/vol1_3/ez...')
+#5 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-load.php(50): require_once('/home/vol1_3/ez...')
+#6 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-blog-header.php(13): require_once('/home/vol1_3/ez...')
+#7 /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/index.php(17): require('/home/vol1_3/ez...')
+#8 {main}
+  thrown
+2025-10-16T19:43:03+00:00 Cannot redeclare init_debug_trace_for_variable_products() (previously declared in /home/vol1_3/ezyro.com/ezyro_40105698/htdocs/wp-content/themes/astra/functions.php:3622)

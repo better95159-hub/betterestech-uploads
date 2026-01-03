@@ -1,0 +1,12 @@
+[2025-06-14 16:12:16] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-14 16:13:06] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 02:38:08] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 02:41:47] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 02:41:51] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 04:45:39] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 04:46:17] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-15 05:00:23] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-17 04:05:35] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-17 04:05:37] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-17 04:06:22] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
+[2025-06-17 04:10:30] ERROR [Controllers\AbstractController:26] GeminiLabs\SiteReviews\Controllers\EditorController::filterIsProtectedMeta(): Argument #2 ($metaKey) must be of type string, null given
