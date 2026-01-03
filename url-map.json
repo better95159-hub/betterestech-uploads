@@ -1,0 +1,18 @@
+{
+  "/": "home",
+  "/shop/": "shop",
+  "/product/h19-5g/": "h19",
+  "/product/s10-ultra-5g/": "s10",
+  "/product/s12-5g/": "s12",
+  "/product/s8-ultra-dual-cam/": "s8",
+  "/product/s9-ultra-dual-cam/": "s9",
+  "/product/tws-pro-2-amoled/": "tws",
+  "/product/u8-ultra-5g/": "u8",
+  "/product/x8-ultra-dual-cam/": "x8",
+  "/privacy-policy/": "privacy",
+  "/terms-and-conditions/": "terms",
+  "/money-back-policy/": "refund",
+  "/contact/": "contact",
+  "/about_us/": "about"
+}
+
